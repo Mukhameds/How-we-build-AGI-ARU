@@ -2,7 +2,7 @@
 layout: default
 title: ARU-AGI Navigation
 ---
-
+ 
 <link rel="stylesheet" href="/assets/styles.css">
 
 <div class="header">
