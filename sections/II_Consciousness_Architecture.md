@@ -1,6 +1,6 @@
 ---
 layout: default
-title: II. Consciousness_Architecture.md
+title: II. Consciousness_Architecture
 permalink: /sections/II_Consciousness_Architecture.html
 ---
 
