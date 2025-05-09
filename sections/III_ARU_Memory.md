@@ -1,4 +1,10 @@
 ---
+layout: default
+title: III. ARU_Memory
+permalink: /sections/III_ARU_Memory.html
+---
+
+---
 
 ## 🧠 III. ARU Memory
  
