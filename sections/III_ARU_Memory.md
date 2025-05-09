@@ -1,7 +1,7 @@
 ---
 
 ## 🧠 III. ARU Memory
-
+ 
 ---
 
 ### 🧬 3.1. Memory as Reaction, Not Data Storage
