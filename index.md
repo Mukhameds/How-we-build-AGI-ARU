@@ -3,7 +3,13 @@ layout: default
 title: ARU-AGI Navigation
 ---
  
-<link rel="stylesheet" href="/assets/styles.css">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }}</title>
+  <link rel="stylesheet" href="/assets/styles.css">
+</head>
+
 
 <div class="header">
   <h1>🌐 How We Build AGI: ARU</h1>
