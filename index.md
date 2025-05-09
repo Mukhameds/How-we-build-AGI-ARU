@@ -10,7 +10,7 @@ title: ARU-AGI Navigation
 ## 📂 Разделы проекта
 
 - [I. Введение](sections/I_Introduction.html)
-- [II. Архитектура](sections/II_Architecture.html)
+- [II. Архитектура сознания](sections/II_Consciousness_Architecture.html)
 - [III. Память и мышление](sections/III_MemoryThinking.html)
 - [IV. Сигнальная система](sections/IV_SignalSystem.html)
 - [V. Эмоции и воля](sections/V_EmotionWill.html)
