@@ -1,15 +1,35 @@
-title: "How We Build AGI: ARU"
-description: "Проект ARU-AGI от Архитектора"
-theme: minima
-markdown: kramdown
-permalink: pretty
-plugins:
-  - jekyll-seo-tag
-  - jekyll-feed
-  - jekyll-sitemap
-defaults:
-  - scope:
-      path: ""
-    values:
-      layout: default
-      css: /assets/styles.css
+name: Deploy GitHub Pages
+
+on:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/configure-pages@v3
+      - uses: actions/jekyll-build-pages@v1
+        with:
+          source: .
+          destination: ./_site
+      - uses: actions/upload-pages-artifact@v1
+        with:
+          path: ./_site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/deploy-pages@v1
+        id: deployment
