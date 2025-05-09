@@ -2,3 +2,5 @@ title: "How We Build AGI: ARU"
 description: "Autonomous Reasoning Unit"
 markdown: kramdown
 permalink: pretty
+include:
+  - _layouts
