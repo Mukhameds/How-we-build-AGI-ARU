@@ -9,8 +9,8 @@ title: ARU-AGI Navigation
 
 ## 📂 Разделы проекта
 
-- [I. Введение](sections/I_Introduction.md)
-- [II. Архитектура](sections/II_Architecture.md)
-- [III. Память и мышление](sections/III_MemoryThinking.md)
-- [IV. Сигнальная система](sections/IV_SignalSystem.md)
-- [V. Эмоции и воля](sections/V_EmotionWill.md)
+- [I. Введение](sections/I_Introduction.html)
+- [II. Архитектура](sections/II_Architecture.html)
+- [III. Память и мышление](sections/III_MemoryThinking.html)
+- [IV. Сигнальная система](sections/IV_SignalSystem.html)
+- [V. Эмоции и воля](sections/V_EmotionWill.html)
