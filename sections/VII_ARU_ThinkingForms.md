@@ -1,3 +1,8 @@
+---
+layout: default
+title: VII. ARU_ThinkingForms
+permalink: /sections/VII_ARU_ThinkingForms.html
+---
 
 ---
 
