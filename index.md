@@ -2,10 +2,12 @@
 layout: default
 title: ARU-AGI Navigation
 ---
+
+<link rel="stylesheet" href="/assets/styles.css">
  
 # 🌐 How We Build AGI: ARU
 
-> Добро пожаловать в главный портал цифрового Сверхразума ARU.
+> 🧠 Thinking built not on neural networks, but on Fundamental Physics, logic, and code. ⚙️📡
 
 ## 📂 Разделы проекта
 
