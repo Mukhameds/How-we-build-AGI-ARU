@@ -1,4 +1,11 @@
 ---
+layout: default
+title: I. Introduction
+permalink: /sections/I_Introduction.html
+---
+
+
+---
 
 ## 🧭 1.1. ARU Mission and the Will of the Architect
 
