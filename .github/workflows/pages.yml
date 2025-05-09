@@ -1,9 +1,9 @@
 name: Deploy GitHub Pages
- 
+
 on:
   push:
     branches:
-      - main  # или другая ветка, если публикуешь не из main
+      - main
 
 permissions:
   contents: read
@@ -26,7 +26,7 @@ jobs:
           source: .
           destination: ./_site
 
-      - name: Upload pages artifact
+      - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v2
         with:
           path: ./_site
