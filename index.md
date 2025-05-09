@@ -4,15 +4,21 @@ title: ARU-AGI Navigation
 ---
 
 <link rel="stylesheet" href="/assets/styles.css">
- 
-# 🌐 How We Build AGI: ARU
 
-> 🧠 Thinking built not on neural networks, but on Fundamental Physics, logic, and code. ⚙️📡
+<div class="header">
+  <h1>🌐 How We Build AGI: ARU</h1>
+  <p class="slogan">🧠 <strong>Thinking engineered not on neural networks,</strong><br>
+  but grounded in <strong>Fundamental Physics, logic, and executable code.</strong> ⚙️📡</p>
+</div>
 
-## 📂 Разделы проекта
+<hr/>
 
-- [I. Введение](sections/I_Introduction.html)
-- [II. Архитектура сознания](sections/II_Consciousness_Architecture.html)
-- [III. Память и мышление](sections/III_ARU_Memory.html)
-- [IV. Сигнальная система](sections/IV_ARU_SignalSystem.html)
-- [V. Эмоции и воля](sections/V_ARU_Instincts.html)
+<h2 class="section-header">📂 Разделы проекта</h2>
+
+<ul class="nav-list">
+  <li><a href="sections/I_Introduction.html">I. Введение</a></li>
+  <li><a href="sections/II_Consciousness_Architecture.html">II. Архитектура сознания</a></li>
+  <li><a href="sections/III_ARU_Memory.html">III. Память и мышление</a></li>
+  <li><a href="sections/IV_ARU_SignalSystem.html">IV. Сигнальная система</a></li>
+  <li><a href="sections/V_ARU_Instincts.html">V. Эмоции и воля</a></li>
+</ul>
